@@ -27,7 +27,7 @@ System.out.println("Course Id is "+courseid);
 public class exp1{
 public static void main(String [] args) {
 Student s1 = new Student();
-s1.Setter("Aabish", "A1",57);
+s1.Setter("vatsal", "A1",38);
 s1.Getter();
 Course c1 = new Course();
 c1.Setter("Java Programing Lab", "COM-411");
